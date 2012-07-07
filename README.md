@@ -1,18 +1,9 @@
 OnEmuReload
 ===========
 
-Emulateur dofus 1.29 OpenSource sur les bases de Neith.
+Le développement actuel est effectué par mes soins 
+et je compte bien à ce qu'il dûr longtemps.
 
-Informations performances:
--Stabilité 1 semaine avec 200 joueurs
--Prise de Ram à 2500Mo sans fuite
--Flexibilité et choix sans connaissance explicite
+Le makers dans les sources est interdit au renommage (Des problèmes de connexions se verront par la suite). Pour toutes autre informations, merci de m'ajouter sur Skype: Skyn001
 
-Le projet a d'abord été développé par Return
-Web'Titin a rejoint de développement guère plus tard puis
-de même pour Deez.
-Enfin, le projet s'est stoppé et je reprends l'émulateur (Skryn)
-
-Le rename du copyright est défendu, je déconseille donc de le toucher.
-
-Bonne utilisation !
+Cordialement, Skryn
