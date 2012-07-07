@@ -1,6 +1,7 @@
-*.class
+Project contains .class compiled
+Java project on other folders.
 
 # Package Files #
 *.jar
-*.war
-*.ear
+*.java
+
